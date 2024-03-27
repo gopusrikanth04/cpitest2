@@ -155,7 +155,7 @@
                 <dc:Bounds height="36.0" width="36.0" x="703.0" y="142.0"/>
             </bpmndi:BPMNShape>
             <bpmndi:BPMNShape bpmnElement="Participant_Process_1" id="BPMNShape_Participant_Process_1">
-                <dc:Bounds height="220.0" width="540.0" x="250.0" y="60.0"/>
+                <dc:Bounds height="220.0" width="540.0" x="250.0" y="62.0"/>
             </bpmndi:BPMNShape>
             <bpmndi:BPMNEdge bpmnElement="SequenceFlow_3" id="BPMNEdge_SequenceFlow_3" sourceElement="BPMNShape_StartEvent_2" targetElement="BPMNShape_EndEvent_2">
                 <di:waypoint x="323.5" xsi:type="dc:Point" y="158.0"/>
